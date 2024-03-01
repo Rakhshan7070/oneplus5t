@@ -1,0 +1,48 @@
+
+
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
+	"title": "Mikado",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#FEC601",
+					"name": "Accent",
+					"slug": "accent"
+				},
+                {
+					"color": "#FEC60178",
+					"name": "Accent 48",
+					"slug": "accent-48"
+				},
+				{
+					"color": "#060409",
+					"name": "Secondary",
+					"slug": "secondary"
+				},
+				{
+					"color": "#dfdfdf",
+					"name": "Primary",
+					"slug": "primary"
+				},
+				{
+					"color": "#000",
+					"name": "Base",
+					"slug": "base"
+				},
+                {
+                    "color": "#FFD43D",
+                    "name": "Accent Light",
+                    "slug": "accent-light"
+                },
+                {
+                    "color": "#fff",
+                    "name": "White",
+                    "slug": "white"
+                }
+			]
+		}
+	}
+}

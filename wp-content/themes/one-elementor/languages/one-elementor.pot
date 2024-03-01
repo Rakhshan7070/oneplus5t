@@ -1,0 +1,318 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: One Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-14 15:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.3\n"
+"X-Domain: one-elementor"
+
+#: footer.php:43
+msgid "&copy; All Right Reserved "
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: includes/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#: 404.php:22
+msgid "0"
+msgstr ""
+
+#: 404.php:21 404.php:23
+msgid "4"
+msgstr ""
+
+#: functions.php:141 functions.php:150 functions.php:159
+msgid "Add footer widget here."
+msgstr ""
+
+#: functions.php:131
+msgid "Add widgets here."
+msgstr ""
+
+#: archive.php:22
+msgid "Blog Archive"
+msgstr ""
+
+#: includes/tgm/required-plugins.php:30
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: header.php:100
+msgid "Close Menu"
+msgstr ""
+
+#. Author of the theme
+msgid "CodeGlim"
+msgstr ""
+
+#: template-parts/content-single.php:24
+msgid "comments"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/one-elementor-customizer/customize-header.php:36
+msgid "Customize post excerpt limit, global limit is : 22"
+msgstr ""
+
+#: functions.php:129
+msgid "Default Sidebar"
+msgstr ""
+
+#: includes/template-functions.php:73
+msgid "Download Demo Data"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: includes/template-tags.php:100
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: includes/one-elementor-customizer/customize-header.php:21
+msgid "Enable Search Widget"
+msgstr ""
+
+#: functions.php:139
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions.php:148
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions.php:157
+msgid "Footer Widget 3"
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid "Found"
+msgstr ""
+
+#: 404.php:30
+msgid "Go Home"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://codeglim.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://codeglim.com/product/one-elementor"
+msgstr ""
+
+#: 404.php:28
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:47
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. %s: post title
+#: includes/template-tags.php:83
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: includes/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: header.php:92
+msgid "Navigation"
+msgstr ""
+
+#: single.php:40
+msgid "Next:"
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid "Nothing"
+msgstr ""
+
+#. Name of the theme
+msgid "One Elementor"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"One Elementor is a next generation multipurpose WordPress Theme. This theme "
+"is compatible with popular page builder elementor. You can use this theme "
+"for your any kind of website like Business, Corporate, Consulting, Portfolio,"
+" ecommerce, Blog &amp; landing page. Also supported any kind of WordPress "
+"plugin including woocommerce, Mailchimp , Contact Form 7 , Elementor Header "
+"Footer Builder and others. So why late? Just install one elementor theme "
+"&amp; start making your website with drag &amp; drop features."
+msgstr ""
+
+#: includes/customizer.php:71
+msgid "One Elementor theme options"
+msgstr ""
+
+#: includes/customizer.php:70
+msgid "One Elementor: Theme Settings"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: includes/one-elementor-customizer/customize-breadcrumb.php:6
+msgid "Page Breadcrumb"
+msgstr ""
+
+#: includes/one-elementor-customizer/customize-breadcrumb.php:7
+msgid "Page Breadcrumb Settings."
+msgstr ""
+
+#: 404.php:27
+msgid "Page Not Found."
+msgstr ""
+
+#: template-parts/content-page.php:20
+msgid "Pages:"
+msgstr ""
+
+#: includes/template-functions.php:72
+msgid "Please Download Demo Data before importing."
+msgstr ""
+
+#. %s: post author.
+#: includes/template-tags.php:46
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#. %s: post date.
+#: includes/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: includes/one-elementor-customizer/customize-header.php:35
+msgid "Post Excerpt Limit"
+msgstr ""
+
+#. 1: list of categories.
+#: includes/template-tags.php:66
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: single.php:39
+msgid "Previous:"
+msgstr ""
+
+#: functions.php:57
+msgid "Primary"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:27
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Search Results: %s"
+msgstr ""
+
+#: includes/one-elementor-customizer/customize-breadcrumb.php:35
+msgid "Show archive breadcrumb"
+msgstr ""
+
+#: includes/one-elementor-customizer/customize-breadcrumb.php:20
+msgid "Show page breadcrumb"
+msgstr ""
+
+#: includes/one-elementor-customizer/customize-breadcrumb.php:61
+msgid "Show search breadcrumb"
+msgstr ""
+
+#: header.php:29
+msgid "Skip to content"
+msgstr ""
+
+#: template-parts/content-none.php:40
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. 1: list of tags.
+#: includes/template-tags.php:73
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: includes/template-functions.php:59
+msgid ""
+"Thanks for the active (One Elementor) theme. Please watch video & "
+"documenation to setup full theme."
+msgstr ""
+
+#: footer.php:45
+#, php-format
+msgid "Theme %2$s  By  %1$s"
+msgstr ""
+
+#: includes/one-elementor-customizer/customize-header.php:6
+msgid "Theme Default"
+msgstr ""
+
+#: includes/one-elementor-customizer/customize-header.php:7
+msgid "Theme default Settings"
+msgstr ""
+
+#: includes/one-elementor-customizer/customize-breadcrumb.php:46
+msgid "Type Archive Title"
+msgstr ""
+
+#: includes/template-functions.php:60
+msgid "Video & Documenation"
+msgstr ""
+
+#: template-parts/content-search.php:43 template-parts/content.php:42
+#: template-parts/content-archive.php:42
+msgid "View Article"
+msgstr ""
+
+#: footer.php:43
+msgid "Y"
+msgstr ""
